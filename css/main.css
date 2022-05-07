@@ -25,7 +25,7 @@ input {background: none;border: none;line-height: none;padding: none;margin: non
 .header_inner {margin: 0 1%;line-height: 28px;}
 header {}
 header h1 {position: fixed;top: 30px;left: 1%;z-index: 999;}
-header h1 a {display: block;width: 298px;height: 28px;background: url(../img/logo_01.png);}
+header h1 a {display: block;width: 298px;height: 28px;background: url(https://pfnight.github.io/jipyong/img/logo_01.png);}
 header .header_util {position: absolute;top: 30px;right: 1%;line-height: 28px;z-index: 10;}
 header .header_util>* {display: inline-block;padding: 0 9px;vertical-align: middle;}
 header .header_util .firm {}
@@ -65,7 +65,7 @@ header nav .g2 li:hover>a {color: var(--red);}
 /* header nav .g1>li:nth-child(1) .g2 {display: block;} */
 
 /*footer*/
-footer {background: #f6f6f3 url(../img/footer.png) no-repeat center;background-size: 1200px auto;border-top: 1px solid var(--red);position: relative;}
+footer {background: #f6f6f3 url(https://pfnight.github.io/jipyong/img/footer.png) no-repeat center;background-size: 1200px auto;border-top: 1px solid var(--red);position: relative;}
 footer .footer_global_wrap {}
 footer .footer_global_wrap ul {margin: 150px 0;text-align: center;}
 footer .footer_global_wrap li {display: inline-block;color: var(--red);font-size: 20px;}
@@ -79,9 +79,9 @@ footer .footer_info li:last-child:after {display: none;}
 footer .footer_info .footer_logo {margin-bottom: 35px;}
 footer .footer_info address {line-height: 1.3;margin-bottom: 30px;}
 footer .footer_info .copyright {margin-bottom: 180px;}
-footer .more_btn {float: right;width: 320px;padding: 15px 23px;border: 1px solid var(--red);background: url(../img/next_active.png) no-repeat right 23px center;font-size: 16px;text-align: left;color: var(--red)}
-footer .more_btn:hover {background: var(--red) url(../img/arrow_02_active.png) no-repeat right 23px center;}
-footer .gotop {width: 48px;height: 48px;background: var(--red) url(../img/arrow_06.png) no-repeat center;position: absolute;right: 0;top: 0;}
+footer .more_btn {float: right;width: 320px;padding: 15px 23px;border: 1px solid var(--red);background: url(https://pfnight.github.io/jipyong/img/next_active.png) no-repeat right 23px center;font-size: 16px;text-align: left;color: var(--red)}
+footer .more_btn:hover {background: var(--red) url(https://pfnight.github.io/jipyong/img/arrow_02_active.png) no-repeat right 23px center;}
+footer .gotop {width: 48px;height: 48px;background: var(--red) url(https://pfnight.github.io/jipyong/img/arrow_06.png) no-repeat center;position: absolute;right: 0;top: 0;}
 
 
 /*main*/
@@ -107,10 +107,10 @@ main .news_wrap li .label {display: block;margin-bottom: 30px;}
 main .news_wrap li p {line-height: 1.5;font-size: 18px;}
 main .news_wrap li .news_img_btns {position: absolute;right: 0;bottom: 0;}
 main .news_wrap li .news_img_btns button {display: block;float: left;width: 65px;height: 65px;}
-main .news_wrap li .news_img_btns .prev {background: var(--red) url(../img/prev.png) no-repeat center;background-size: 8px 14px;}
-main .news_wrap li .news_img_btns .next {background: var(--red) url(../img/next.png) no-repeat center;background-size: 8px 14px;}
-main .news_wrap li .news_img_btns .prev:hover {background: #FFF url(../img/prev_active.png) no-repeat center;}
-main .news_wrap li .news_img_btns .next:hover {background: #FFF url(../img/next_active.png) no-repeat center;}
+main .news_wrap li .news_img_btns .prev {background: var(--red) url(https://pfnight.github.io/jipyong/img/prev.png) no-repeat center;background-size: 8px 14px;}
+main .news_wrap li .news_img_btns .next {background: var(--red) url(https://pfnight.github.io/jipyong/img/next.png) no-repeat center;background-size: 8px 14px;}
+main .news_wrap li .news_img_btns .prev:hover {background: #FFF url(https://pfnight.github.io/jipyong/img/prev_active.png) no-repeat center;}
+main .news_wrap li .news_img_btns .next:hover {background: #FFF url(https://pfnight.github.io/jipyong/img/next_active.png) no-repeat center;}
 
 /* main .news_wrap li .news_img_btns .prev:after {content: "";display: inline-block;width: 10px;height: 10px;border-right: 2px solid #FFF;border-bottom: 2px solid #FFF;transform: rotate(135deg);} */
 
@@ -119,7 +119,7 @@ main .news_wrap li .news_img_btns:hover .prev:after {border-right: 2px solid var
 main .news_wrap li .news_img_btns:hover .next:after {border-right: 2px solid var(--red);border-bottom: 2px solid var(--red);}
 
 
-main .duroo_wrap {background: url(../img/1_3_20190703123229.jpg) fixed;}
+main .duroo_wrap {background: url(https://pfnight.github.io/jipyong/img/1_3_20190703123229.jpg) fixed;}
 main .duroo_wrap .about_duroo, main .duroo_wrap .more_duroo {text-align: center;color: #FFF;}
 main .duroo_wrap .about_duroo {border-bottom: 1px solid var(--red);padding: 250px 0 50px 0;}
 main .duroo_wrap .about_duroo strong {font-size: 42px;font-family: 'Noto Serif KR';font-weight: 200;line-height: 1.3;}
@@ -128,11 +128,11 @@ main .duroo_wrap .more_duroo p {font-size: 20px;margin-bottom: 40px;}
 main .duroo_wrap .more_duroo .more_btn {border: 1px solid var(--red);padding: 20px 90px;color: var(--red);font-size: 20px;}
 
 main .duroo_site_wrap {background: #f6f6f3;}
-main .duroo_site_wrap .duroo_website {background: #FFF url(../img/site.jpg) no-repeat right top;padding-top: 40px;color: var(--red);transform: translateY(-65%);}
+main .duroo_site_wrap .duroo_website {background: #FFF url(https://pfnight.github.io/jipyong/img/site.jpg) no-repeat right top;padding-top: 40px;color: var(--red);transform: translateY(-65%);}
 main .duroo_site_wrap .duroo_website em {display: block;float: left;margin: 0 150px 0 40px;font-weight: bold;}
 main .duroo_site_wrap .duroo_website .duroo_link {float: left;}
 main .duroo_site_wrap .duroo_website a {display: block;font-size: 30px;margin-bottom: 20px;}
-main .duroo_site_wrap .duroo_website a:after {content: "";display: inline-block;width: 8px;height: 14px;background: url(../img/next_active.png) no-repeat;transform: translate(15px, -5px);}
+main .duroo_site_wrap .duroo_website a:after {content: "";display: inline-block;width: 8px;height: 14px;background: url(https://pfnight.github.io/jipyong/img/next_active.png) no-repeat;transform: translate(15px, -5px);}
 main .duroo_site_wrap .duroo_website a:hover {text-decoration: underline;}
 main .duroo_site_wrap .duroo_website p {display: block;line-height: 2;margin-bottom: 48px;font-size: 16px;}
 
@@ -148,10 +148,10 @@ main .case_wrap li:hover, main .media_wrap li:hover {background: #FFF;cursor: po
 main .case_wrap li strong, main .media_wrap li strong {display: block;margin-bottom: 30px;color: var(--red);font-weight: bold;}
 main .case_wrap .case_txt, main .media_wrap .media_txt {font-size: 20px;line-height: 1.5;}
 main .case_wrap .date, main .media_wrap .date {position: absolute;left: 40px;bottom: 20px;}
-main .case_wrap .dot_btn, main .media_wrap .dot_btn {display: block;width: 16px;height: 3px;position: absolute;right: 0;top: 15px;background: url(../img/more.png) no-repeat;}
+main .case_wrap .dot_btn, main .media_wrap .dot_btn {display: block;width: 16px;height: 3px;position: absolute;right: 0;top: 15px;background: url(https://pfnight.github.io/jipyong/img/more.png) no-repeat;}
 
 main .media_wrap .media_box li {position: relative;}
-main .media_wrap .media_box li span {display: block;width: 16px;height: 16px;background: url(../img/outlink.png);background-size: 100%;position: absolute;top: 40px; right: 40px;}
+main .media_wrap .media_box li span {display: block;width: 16px;height: 16px;background: url(https://pfnight.github.io/jipyong/img/outlink.png);background-size: 100%;position: absolute;top: 40px; right: 40px;}
 
 main .office_wrap {background: #f6f6f3;text-align: center;padding: 100px 0 190px 0;overflow: hidden;}
 main .office_wrap h2 {font-size: 30px;margin-bottom: 40px;}
@@ -160,17 +160,17 @@ main .office_wrap .office_slider {width: 1200px;}
 main .office_wrap .office_slider .office {width: 20000px;}
 main .office_wrap ul {margin-bottom: 30px;margin-left: -780px;}
 main .office_wrap li {display: block;float: left;width: 960px;margin: 0 60px;padding: 150px 0 100px 0;background-blend-mode: overlay;background-size: contain;text-align: center;}
-main .office_wrap li:nth-child(1) {background: rgba(0,0,0,0.5) url(../img/_1_20190611152728.jpg) no-repeat center;}
-main .office_wrap li:nth-child(2) {background: rgba(0,0,0,0.5) url(../img/_1_20190611153141.jpg) no-repeat center;}
-main .office_wrap li:nth-child(3) {background: rgba(0,0,0,0.5) url(../img/37_1_20190830150910.jpg) no-repeat center;}
-main .office_wrap li:nth-child(4) {background: rgba(0,0,0,0.5) url(../img/_1_20190624185709.jpg) no-repeat center;}
-main .office_wrap li:nth-child(5) {background: rgba(0,0,0,0.5) url(../img/_1_20190624185858.jpg) no-repeat center;}
-main .office_wrap li:nth-child(6) {background: rgba(0,0,0,0.5) url(../img/29_1_20190624190039.jpg) no-repeat center;}
-main .office_wrap li:nth-child(7) {background: rgba(0,0,0,0.5) url(../img/_1_20190624190002.jpg) no-repeat center;}
-main .office_wrap li:nth-child(8) {background: rgba(0,0,0,0.5) url(../img/31_1_20190829180227.jpg) no-repeat center;}
-main .office_wrap li:nth-child(9) {background: rgba(0,0,0,0.5) url(../img/23_1_20190624185736.jpg) no-repeat center;}
-main .office_wrap li:nth-child(10) {background: rgba(0,0,0,0.5) url(../img/18_1_20190611150010.jpg) no-repeat center;}
-main .office_wrap li:nth-child(11) {background: rgba(0,0,0,0.5) url(../img/24_1_20190624185759.jpg) no-repeat center;}
+main .office_wrap li:nth-child(1) {background: rgba(0,0,0,0.5) url(https://pfnight.github.io/jipyong/img/_1_20190611152728.jpg) no-repeat center;}
+main .office_wrap li:nth-child(2) {background: rgba(0,0,0,0.5) url(https://pfnight.github.io/jipyong/img/_1_20190611153141.jpg) no-repeat center;}
+main .office_wrap li:nth-child(3) {background: rgba(0,0,0,0.5) url(https://pfnight.github.io/jipyong/img/37_1_20190830150910.jpg) no-repeat center;}
+main .office_wrap li:nth-child(4) {background: rgba(0,0,0,0.5) url(https://pfnight.github.io/jipyong/img/_1_20190624185709.jpg) no-repeat center;}
+main .office_wrap li:nth-child(5) {background: rgba(0,0,0,0.5) url(https://pfnight.github.io/jipyong/img/_1_20190624185858.jpg) no-repeat center;}
+main .office_wrap li:nth-child(6) {background: rgba(0,0,0,0.5) url(https://pfnight.github.io/jipyong/img/29_1_20190624190039.jpg) no-repeat center;}
+main .office_wrap li:nth-child(7) {background: rgba(0,0,0,0.5) url(https://pfnight.github.io/jipyong/img/_1_20190624190002.jpg) no-repeat center;}
+main .office_wrap li:nth-child(8) {background: rgba(0,0,0,0.5) url(https://pfnight.github.io/jipyong/img/31_1_20190829180227.jpg) no-repeat center;}
+main .office_wrap li:nth-child(9) {background: rgba(0,0,0,0.5) url(https://pfnight.github.io/jipyong/img/23_1_20190624185736.jpg) no-repeat center;}
+main .office_wrap li:nth-child(10) {background: rgba(0,0,0,0.5) url(https://pfnight.github.io/jipyong/img/18_1_20190611150010.jpg) no-repeat center;}
+main .office_wrap li:nth-child(11) {background: rgba(0,0,0,0.5) url(https://pfnight.github.io/jipyong/img/24_1_20190624185759.jpg) no-repeat center;}
 main .office_wrap li em {display: block;color: #FFF;margin-bottom: 20px;}
 main .office_wrap li strong {display: block;margin-bottom: 30px;color: #FFF;font-size: 42px;font-family: 'Noto Serif KR';font-weight: 200;}
 main .office_wrap li .more_btn {display: block;margin: auto;padding: 20px 90px;border: 1px solid var(--red);color: var(--red);font-size: 18px;}
